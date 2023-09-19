@@ -18,7 +18,7 @@ public class SampleTask extends BaseClass {
 		
 		LoginPage l=new LoginPage();
 		
-		sendkeys(l.getTxtUsername(),"suganya.iniya23@gmail.com");
+		sendkeys(l.getTxtUsername(),"suganya.iniya@gmail.com");
 		
 		sendkeys(l.getTxtPassword(),"kathi@M20");
 		
