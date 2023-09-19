@@ -25,6 +25,7 @@ public class SampleTask extends BaseClass {
 		refresh();
 		
 		sendkeys(l.getTxtUsername(),"kathiravan");
+		click(l.getBtnLogin());
 		
 		}
 
